@@ -6,10 +6,10 @@ A backend tool that helps you **analyze the security risk of any IoT device** (l
 
 ## Features
 
-- 🔍 Search for public CVEs related to an IoT device
-- 📊 Calculate a simple risk score based on bug count
-- ⚡ FastAPI-powered API — clean, fast, and testable
-- 💡 Easy to run locally and test via browser
+- Search for public CVEs related to an IoT device
+- Calculate a simple risk score based on bug count
+- FastAPI-powered API — clean, fast, and testable
+- Easy to run locally and test via browser
 
 ---
 
